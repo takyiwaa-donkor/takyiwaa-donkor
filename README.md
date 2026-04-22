@@ -1,10 +1,10 @@
-## Hi there, my name is Takyiwaa  👋
+## Hi there👋my name is Takyiwaa  
 
-## 👋 About Me
+## About Me
 Business Analyst | IT Analyst | Regulatory Analyst with 10+ years in financial services.  
 I specialise in turning complex business processes into clear, data‑driven solutions.  
-Experienced across Deutsche Bank projects in risk, compliance, GDPR & operations.  
-Now expanding into Python, SQL & AI to build scalable analytical systems.  
+Experienced across projects in risk, compliance, GDPR & operations.  
+Now expanding into Python, SQL and AI to build scalable analytical systems.  
 Driven by structure, clarity, and solving real problems with smart technology.
 
 ## 🔧 Core Competencies
