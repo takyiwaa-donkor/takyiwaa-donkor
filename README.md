@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, my name is Takyiwaa  👋
 
-<!--
-**takyiwaa-donkor/takyiwaa-donkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Business Analyst | IT Analyst | Regulatory Analyst with 10+ years in financial services.  
+I specialise in turning complex business processes into clear, data‑driven solutions.  
+Experienced across Deutsche Bank projects in risk, compliance, GDPR & operations.  
+Now expanding into Python, SQL & AI to build scalable analytical systems.  
+Driven by structure, clarity, and solving real problems with smart technology.
 
-Here are some ideas to get you started:
+## 🔧 Core Competencies
+• Business & Regulatory Analysis (requirements, compliance, GDPR, CSDR)  
+• Data & Technical Analysis (Python, SQL, modelling, dashboards, automation)  
+• IT & Systems Consulting (documentation, stakeholder alignment, QA)  
+• Tools: Power BI, Tableau, Jira, Confluence, Scrum, PRINCE2, DeepFace, OpenCV  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
