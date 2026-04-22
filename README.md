@@ -1,6 +1,6 @@
 ## Hi there👋my name is Takyiwaa  
 
-## About Me
+## 💼 About Me
 Business Analyst | IT Analyst | Regulatory Analyst with 10+ years in financial services.  
 I specialise in turning complex business processes into clear, data‑driven solutions.  
 Experienced across projects in risk, compliance, GDPR & operations.  
